@@ -1,0 +1,12 @@
+{
+  "name": "backend-grupolocar-reset",
+  "version": "1.0.0",
+  "description": "API de recuperação de senha Grupo Locar (Vercel Serverless)",
+  "type": "module",
+  "dependencies": {
+    "bcryptjs": "^3.0.3",
+    "mongoose": "^8.19.3",
+    "nodemailer": "^7.0.11",
+    "resend": "^6.5.2"
+  }
+}
